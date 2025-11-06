@@ -1,0 +1,15 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model weights or logs
+*.h5
+*.ckpt
+logs/
