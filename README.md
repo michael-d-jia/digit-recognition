@@ -35,7 +35,7 @@ It demonstrates image preprocessing, model training, and evaluation using modern
 | **Test Accuracy** | ~98% |
 | **Loss Curve** | Smooth convergence after ~10 epochs |
 
-*(These values depend on training parameters and random seeds.)*
+*(These values vary based on training parameters and random seeds.)*
 
 ---
 
